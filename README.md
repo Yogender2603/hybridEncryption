@@ -42,3 +42,7 @@ Here now we also need to connect this server with the client to receive the data
 Executing Client.py (take user's input message)
 ![Screenshot (128)](https://user-images.githubusercontent.com/128420302/226459935-bcb650ed-f54f-492a-af32-3bc2c0564b44.png)
 
+Executing server.py - (encryption and decryption)
+![Screenshot (157)](https://user-images.githubusercontent.com/128420302/226460520-615c1d63-84b3-44b4-a188-e3f2608e6dd4.png)
+
+
