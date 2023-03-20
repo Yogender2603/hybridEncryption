@@ -45,4 +45,8 @@ Executing Client.py (take user's input message)
 Executing server.py - (encryption and decryption)
 ![Screenshot (157)](https://user-images.githubusercontent.com/128420302/226460520-615c1d63-84b3-44b4-a188-e3f2608e6dd4.png)
 
+![Screenshot (158)](https://user-images.githubusercontent.com/128420302/226460695-79bfe0d5-4717-4b17-810d-3d96d3dabfb0.png)
 
+
+4.Result and Conclusion
+We have studied that our proposed hybrid algorithm for data encryption performs better than presently used encryption algorithms. We have also compared our methodology with Data Encryption Standard algorithm (DES), Data encryption standard and Advance encryption standard algorithm. We have found that our algorithm is efficient in terms of providing more security as our algorithm not allows attacker to easily decrypt the messages. It will be hard for the attacker to find the encryption algorithm as we have not used just a single encryption method. Also even if the attacker finds the 3 algorithms we have used,still oursystemwill be secured because of the randomness on the use of algorithm on different part of the message. Thus providing one more layer of security.
